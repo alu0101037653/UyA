@@ -36,10 +36,7 @@ en el que indiques:
       
       
     ¿La página tiene alguna cookie?, ¿Cuáles?.
-      Ambas páginas tienen cookies
-      Página1: http://www.gobiernodecanarias.org
-      
-      Página2: https://www3.gobiernodecanarias.org
+      Ninguna de las dos páginas tiene cookies
     
     
     ¿Qué idioma acepta?
